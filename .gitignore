@@ -2,3 +2,4 @@ venv/
 .idea/
 .vscode/
 .vscode-test/
+.ipynb_checkpoints/
